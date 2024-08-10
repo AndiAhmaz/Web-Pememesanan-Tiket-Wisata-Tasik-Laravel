@@ -3,8 +3,8 @@
 *Place where you can easily order airlines tickets for your travel plans*
 
 ## 📚 About
-Platform [`Visit Tasik`](https://confido.fikridean.my.id/) adalah platform yang digunakan untuk memesan tiket wisata kawasan Gunung Galunggung dalam rencana liburan anda.
-Kunjungi website `Confido` untuk mengetahui lebih lanjut, Silahkan klik [Visit Tasik](https://confido.fikridean.my.id/).
+Platform [`Visit Tasik`] adalah platform yang digunakan untuk memesan tiket wisata kawasan Gunung Galunggung dalam rencana liburan anda.
+Kunjungi website `Confido` untuk mengetahui lebih lanjut, Silahkan klik [Visit Tasik].
 
 ## 🧰 Tools
 * PHP versi >8.X.X (Disarankan)
