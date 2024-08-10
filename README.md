@@ -1,10 +1,10 @@
-# Confido - Sale of Airline Tickets
+# Visit Tasik - Travel Tickets
 
 *Place where you can easily order airlines tickets for your travel plans*
 
 ## 📚 About
-Platform [`Confido`](https://confido.fikridean.my.id/) adalah platform yang digunakan untuk memesan tiket pesawat dalam rencana perjalanan anda.
-Kunjungi website `Confido` untuk mengetahui lebih lanjut, Silahkan klik [Confido](https://confido.fikridean.my.id/).
+Platform [`Visit Tasik`](https://confido.fikridean.my.id/) adalah platform yang digunakan untuk memesan tiket wisata kawasan Gunung Galunggung dalam rencana liburan anda.
+Kunjungi website `Confido` untuk mengetahui lebih lanjut, Silahkan klik [Visit Tasik](https://confido.fikridean.my.id/).
 
 ## 🧰 Tools
 * PHP versi >8.X.X (Disarankan)
@@ -24,9 +24,9 @@ Apabila terjadi `error` saat proses instalasi, silahkan update PHP dan Composer 
   - Buat Pesanan
   - Riwayat
   - *Users*
-  - Maskapai
-  - Kelas Maskapai
-  - Rute Penerbangan
+  - Nama Wisata
+  - Jenis Wisata
+  - Penginapan
   - Metode Pembayaran
 
 ## 📜 Technical
@@ -39,16 +39,7 @@ Apabila terjadi `error` saat proses instalasi, silahkan update PHP dan Composer 
 ### Pre-Requirement
 - Sebelum menggunakan platform, terlebih dahulu perlu menginstall bahasa pemrograman `PHP` dan `Composer`
 
-### Add Remote via GIT
-> #### Add Remote to Folder - [GIT Confido Link](https://github.com/FikriDean/confido_final.git)
-Jalankan perintah git untuk menyalin project ke local system
-```sh
-git remote add talent https://github.com/FikriDean/confido_final.git
-```
 
-### Download Via ZIP
-#### Atau download versi ZIP dibawah ini
-[Download ZIP Confido](https://github.com/FikriDean/confido_final/archive/refs/heads/main.zip)
 
 ### Confido Project Setup
 #### Create `.env` File
@@ -64,7 +55,7 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=confido
+DB_DATABASE=visittasik
 DB_USERNAME=root
 DB_PASSWORD=password
 ```
